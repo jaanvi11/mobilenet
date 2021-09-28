@@ -1,0 +1,65 @@
+body
+{
+    font-family:'Special Elite',cursive;
+    background-color: bisque;
+}
+.header
+{
+    background-color:white;
+    color: rosybrown;
+}
+.header img
+{
+    width:100px
+}
+.maindiv
+{
+    padding:10px;
+    margin-top:15px;
+    border:3px solid white ;
+}
+.maindiv label
+{
+     width: 300px;
+     padding:10px;
+     margin-bottom: 0px;
+    
+}
+.maindiv button
+{
+    width:300px;
+    font-size: 16px;
+    border:1px solid;    
+    background-color: papayawhip;
+}
+#webcam,#snapshot
+{
+    border:2px solid white;
+    width:300px;
+    height:300px;
+}
+.give_results
+{
+    margin-bottom:50px;
+}
+.give_results h4
+{
+    background-color: white;
+    border-radius: 10px;
+    padding:5px;
+}
+.give_results img
+{
+    width:70px
+}
+.footer
+{
+    position:fixed;
+    color:rosybrown;
+    background-color:white ;
+    bottom:0;
+    width:100%;
+    line-height:3;
+    text-align:center;
+}
+
